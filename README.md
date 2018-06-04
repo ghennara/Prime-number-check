@@ -1,2 +1,1 @@
-tira il dado
-IVAN GAY
+https://www.onlinegdb.com/online_python_compiler
