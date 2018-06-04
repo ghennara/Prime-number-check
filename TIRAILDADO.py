@@ -1,4 +1,4 @@
-#Ciao Ivo, beccati che robetta
+
 
 
 import random
@@ -12,5 +12,5 @@ while Domanda != 'n':
         print(die1, die2)
         Domanda = input('Vuoi tirare di nuovo il dado? [s/n]?\n')
     else:
-        print('NO!. Digita "s" o "n".')
+        print('Errore! Digita "s" o "n".')
         Domanda = input('Vuoi tirare il dado? [s/n]?\n')        
