@@ -1,4 +1,2 @@
-# Prime-number-check
-Simple software to check an integer as a prime number
-
+tira il dado
 IVAN GAY
